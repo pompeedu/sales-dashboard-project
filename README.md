@@ -34,5 +34,5 @@ git clone https://github.com/firuzjonq/sales-dashboard-project.git
 4. Run all cells to see the dashboard
 
 ## 🧠 Author
-[Your Name] – Aspiring Data Scientist from Russia  
+Firuzjon Qurbonov – Aspiring Data Scientist from Russia  
 📫 Contact: [Telegram/@firuzjonq](https://t.me/firuzjonq) or [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)
