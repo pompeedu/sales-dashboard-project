@@ -18,7 +18,7 @@ The data comes from `sales_data_sample.csv`.
 
 ## 💡 Insights
 - Peak sales in November 1, 2004
-- Best-selling product line: CLassic Cars
+- Best-selling product line: Classic Cars
 - Top customer: Euro Shopping Channel
 
 ## 📎 How to Run
