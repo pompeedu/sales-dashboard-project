@@ -28,10 +28,11 @@ It's intended to demonstrate skills in data analysis, data visualization, and wo
 
 ## 🚀 How to Run
 1. Clone the repository:
+'''bash
 git clone https://github.com/firuzjonq/sales-dashboard-project.git
-2. Open the notebook in [Google Colab](https://colab.research.google.com/)
-3. Upload the CSV if not already in the notebook
-4. Run all cells to see the dashboard
+3. Open the notebook in [Google Colab](https://colab.research.google.com/)
+4. Upload the CSV if not already in the notebook
+5. Run all cells to see the dashboard
 
 ## 🧠 Author
 Firuzjon Qurbonov – Aspiring Data Scientist from Russia  
