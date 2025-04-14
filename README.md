@@ -22,9 +22,9 @@ It's intended to demonstrate skills in data analysis, data visualization, and wo
 - Best customers by revenue
 
 ## 💡 Insights
-- Peak month for sales
-- Top-performing product line
-- Key customers driving revenue
+- Peak month for sales: "November, 2004"
+- Top-performing product line: "Classic Cars"
+- Key customers driving revenue: "Euro Shopping Channel"
 
 ## 🚀 How to Run
 1. Clone the repository:
