@@ -35,4 +35,4 @@ git clone https://github.com/firuzjonq/sales-dashboard-project.git
 
 ## 🧠 Author
 Firuzjon Qurbonov – Aspiring Data Scientist from Russia  
-📫 Contact: [Telegram/@firuzjonq](https://t.me/firuzjonq) or [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)
+📫 Contact: [Telegram/@pompeedu](https://t.me/pompeedu) or [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)
