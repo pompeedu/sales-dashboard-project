@@ -33,7 +33,7 @@
 ## 🚀 Как запустить
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/firuzjonq/sales-dashboard-project.git
+git clone https://github.com/pompeedu/sales-dashboard-project.git
 ```
 2. Откройте блокнот в [Google Colab](https://colab.research.google.com)
 3. Загрузите CSV-файл, если его ещё нет в блокноте
