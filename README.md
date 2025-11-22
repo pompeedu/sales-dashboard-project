@@ -51,6 +51,8 @@ git clone https://github.com/pompeedu/sales-dashboard-project.git
 4. Upload the CSV if not already in the notebook
 5. Run all cells to see the dashboard
 
+### 👆 Or click this [link](https://colab.research.google.com/github/pompeedu/sales-dashboard-project/blob/main/sales_dashboard.ipynb).
+
 ## 👨‍💻 Author
 Firuzjon Qurbonov – Aspiring Data Scientist focused on analytics, dashboards, and real-world business insights.
 
