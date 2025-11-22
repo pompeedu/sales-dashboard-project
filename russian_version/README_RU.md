@@ -1,6 +1,6 @@
 # 🌍 Языки:
 - 🇷🇺 Русский (текущий)
-- 🇬🇧 [English version](./README.md)
+- 🇬🇧 [English version](../README.md)
 
 # 📊 Проект: Дашборд продаж
 
