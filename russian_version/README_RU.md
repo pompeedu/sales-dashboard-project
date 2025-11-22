@@ -49,7 +49,7 @@ git clone https://github.com/pompeedu/sales-dashboard-project.git
 2. Откройте блокнот в [Google Colab](https://colab.research.google.com)
 3. Загрузите CSV-файл, если его ещё нет в блокноте
 4. Запустите все ячейки, чтобы увидеть дашборд
-#### Или нажмите на эту [ссылку-текст](https://colab.research.google.com/github/pompeedu/sales-dashboard-project/blob/main/sales_dashboard_ru.ipynb).
+### 👆 Или нажмите на эту [ссылку-текст](https://colab.research.google.com/github/pompeedu/sales-dashboard-project/blob/main/sales_dashboard_ru.ipynb).
 
 ## 👨‍💻 Автор
 #### *Фирузджон Курбанов – Начинающий Data Scientist сосредоточенный на аналитике, дашбордах и бизнес-инсайтах для реальных задач.*
