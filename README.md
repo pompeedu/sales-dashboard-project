@@ -1,3 +1,7 @@
+# 🌍 Languages:
+- 🇬🇧 English (current)
+- 🇷🇺 [Русская версия](russian_version/README_RU.md)
+
 # 📊 Sales Dashboard Project
 
 This project presents an interactive sales data dashboard built in Python using Pandas and Plotly.  
@@ -35,4 +39,7 @@ git clone https://github.com/firuzjonq/sales-dashboard-project.git
 
 ## 🧠 Author
 Firuzjon Qurbonov – Aspiring Data Scientist from Russia  
-📫 Contact: [Telegram/@pompeedu](https://t.me/pompeedu) or [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)
+
+### 📫 Contact: 
+- [Telegram/@pompeedu](https://t.me/pompeedu)
+- [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)
